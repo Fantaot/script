@@ -74,5 +74,5 @@
     }
 
     // Call the update function
-    upd();
+
 })();
