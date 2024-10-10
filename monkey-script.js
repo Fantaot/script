@@ -29,7 +29,6 @@
         console.log("Running");
     } else {
         alert('token: ' + token);
-        secure();
     }
 
     // Retrieve or initialize the counter
