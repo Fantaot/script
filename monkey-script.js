@@ -70,7 +70,7 @@
                 alert('an error occurred');
                 secure();
             }
-        }, 1000);
+        }, 10000000000000000);
     }
 
     // Call the update function
