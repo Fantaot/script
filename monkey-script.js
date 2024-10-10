@@ -21,7 +21,7 @@
 
     // List of authorized tokens
     const authorized = [
-        ''
+        '3yQ5NmIeK9zKbYPrT4JVax2QCanKsFiI'
     ];
 
     // Check if the token is authorized
